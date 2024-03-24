@@ -1,8 +1,13 @@
 # Hate-Speech-Detection
-The widespread occurrence of hate speech and cyberbullying in online communication has become a pressing concern, posing significant threats to individuals and society at large. These harmful behaviours can inflict severe emotional damage, reputational harm, and even lead to acts of violence. this project delves into the creation of a hate speech classification model using Support Vector Machine (SVM) and advanced natural language processing techniques. The code focuses on cleaning and preprocessing tweets to extract meaningful features, utilizing CountVectorizer to transform text data into numerical representations, and employing SVM to identify patterns that distinguish between different types of tweets. The model is evaluated on a labeled dataset and demonstrates promising results in recognizing hate speech and offensive language.
+The widespread occurrence of hate speech and cyberbullying in online communication has become a pressing concern, posing significant threats to individuals and society at large. These harmful behaviours can inflict severe emotional damage, reputational harm, and even lead to acts of violence. 
+
+![image](https://github.com/HarshadVortex/Hate-Speech-Detection/assets/164507622/d480a554-6c37-43ad-9dd0-417edea2899a)
 
 
-![Uploading image.png…]()
+this project delves into the creation of a hate speech classification model using Support Vector Machine (SVM) and advanced natural language processing techniques. The code focuses on cleaning and preprocessing tweets to extract meaningful features, utilizing CountVectorizer to transform text data into numerical representations, and employing SVM to identify patterns that distinguish between different types of tweets. The model is evaluated on a labeled dataset and demonstrates promising results in recognizing hate speech and offensive language.
+
+
+
 
 
 
