@@ -5,6 +5,8 @@ The widespread occurrence of hate speech and cyberbullying in online communicati
 ![Uploading image.png…]()
 
 
+
+
 This hate speech detection minor project leverages and identify and categorize hate speech in textual data. The dataset used for training and evaluation contains labeled tweets categorized into three classes: Hate Speech, Offensive Speech, and No Hate and Offensive Speech. The project employs natural language processing techniques to preprocess the textual data, including lowercasing, removal of URLs, punctuation, and stop words, as well as stemming.
 
 
